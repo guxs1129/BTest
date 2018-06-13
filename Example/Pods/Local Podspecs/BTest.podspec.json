@@ -1,0 +1,22 @@
+{
+  "name": "BTest",
+  "version": "0.1.0",
+  "summary": "A short description of BTest.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/guxs1129@163.com/BTest",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "guxs1129@163.com": "guxs@linkstec.com"
+  },
+  "source": {
+    "git": "https://github.com/guxs1129@163.com/BTest.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "BTest/Classes/**/*"
+}

@@ -7,12 +7,14 @@
 //
 
 #import "BTAppDelegate.h"
-
+@import BTest;
 @implementation BTAppDelegate
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
     // Override point for customization after application launch.
+    BTestObj *obj=[[BTestObj alloc]init];
+    [obj btest];
     return YES;
 }
 

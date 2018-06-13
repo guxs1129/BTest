@@ -1,0 +1,16 @@
+PODS:
+  - BTest (0.1.0)
+
+DEPENDENCIES:
+  - BTest (from `../`)
+
+EXTERNAL SOURCES:
+  BTest:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  BTest: ab762ca5d6d2f40e7cb7bc7f6f8da70ff5ec3d44
+
+PODFILE CHECKSUM: 9296276c2a729499e10e7ea999d22c6caff1dae2
+
+COCOAPODS: 1.5.0
